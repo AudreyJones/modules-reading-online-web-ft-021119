@@ -1,5 +1,6 @@
 require 'pry'
 module FancyDance
+  def end
   module InstanceMethods
 
 
