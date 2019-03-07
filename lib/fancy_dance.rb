@@ -1,7 +1,5 @@
 require 'pry'
 module FancyDance
-  def end
-    binding.pry
   module InstanceMethods
 
 
